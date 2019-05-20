@@ -1,1 +1,1 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="theme-color" content="#000000"><link rel="manifest" href="/manifest.json"><link rel="shortcut icon" href="/favicon.png"><link rel="stylesheet" href="https://wwwimages2.adobe.com/etc/beagle/public/globalnav/adobe-privacy/latest/privacy.min.css">
+![https://www.adobe.io/apis/experienceplatform/home.html]
