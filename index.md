@@ -1,7 +1,9 @@
-![](casey-horner-487085-unsplash.jpg)
+
 
 # This is a test
 this is some cool text
+
+![](casey-horner-487085-unsplash.jpg)
 
 ---
 
