@@ -1,1 +1,1 @@
-![https://www.adobe.io/apis/experienceplatform/home.html]
+![](https://www.adobe.io/apis/experienceplatform/home.html)
