@@ -16,6 +16,6 @@ sdfgdsfg
 
 ---
 
-<h3 style="background-color:lime">this is html</h3>
+<h3>this is html</h3>
 
 
